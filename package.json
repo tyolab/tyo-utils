@@ -1,0 +1,26 @@
+{
+  "name": "tyo-utils",
+  "version": "0.0.1",
+  "description": "A collection of utilities commonly needed in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyolab/tyo-utils.git"
+  },
+  "keywords": [
+    "nodejs",
+    "utils",
+    "data",
+    "type",
+    "utilities"
+  ],
+  "author": "Eric Tang (eric.tang@tyo.com.au)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyolab/tyo-utils/issues"
+  },
+  "homepage": "https://github.com/tyolab/tyo-utils#readme"
+}
