@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-    dataype: require('./lib/datatype')
+    datatype: require('./lib/datatype')
 }
