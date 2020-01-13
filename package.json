@@ -1,6 +1,6 @@
 {
   "name": "tyo-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A collection of utilities commonly needed in node",
   "main": "index.js",
   "scripts": {

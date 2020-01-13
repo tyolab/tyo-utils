@@ -3,5 +3,6 @@
  */
 
 module.exports = {
-    datatype: require('./lib/datatype')
+    datatype: require('./lib/datatype'),
+    utils: require('./lib/common')
 }
